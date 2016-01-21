@@ -1,2 +1,2 @@
 # VirtualGHFStringTree
-Virtual-TreeView Addon
+[Virtual-TreeView](https://github.com/Virtual-TreeView/Virtual-TreeView) Addon
